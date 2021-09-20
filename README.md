@@ -1,4 +1,4 @@
-# Sales Insights using MY-SQL and Tableau
+# [Sales Insights using MY-SQL and Tableau](https://public.tableau.com/app/profile/akshay.kharche/viz/Akshay_Sales_Dashboard/Dashboard1)
 
 # Data Analysis using SQL
 
